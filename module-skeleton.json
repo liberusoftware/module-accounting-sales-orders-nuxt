@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-sales-orders-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-sales-orders",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-sales-orders-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/sales-orders.md",
+  "presentationPlan": "projects/accounting/nuxt/sales-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
